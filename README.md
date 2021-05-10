@@ -1,4 +1,4 @@
-# Moon Classification Case Study
+# Moon Classification Case Study using Amazon AWS SageMaker
 
 # Introduction
 
